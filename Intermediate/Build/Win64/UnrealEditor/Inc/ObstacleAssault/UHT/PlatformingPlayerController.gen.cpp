@@ -230,14 +230,14 @@ APlatformingPlayerController::~APlatformingPlayerController() {}
 // ********** End Class APlatformingPlayerController ***********************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_ObstacleAssault_Source_ObstacleAssault_Variant_Platforming_PlatformingPlayerController_h__Script_ObstacleAssault_Statics
+struct Z_CompiledInDeferFile_FID_Users_thalles_nunes_Documents_Unreal_Projects_ObstacleAssault_Source_ObstacleAssault_Variant_Platforming_PlatformingPlayerController_h__Script_ObstacleAssault_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_APlatformingPlayerController, APlatformingPlayerController::StaticClass, TEXT("APlatformingPlayerController"), &Z_Registration_Info_UClass_APlatformingPlayerController, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(APlatformingPlayerController), 3924023546U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_ObstacleAssault_Source_ObstacleAssault_Variant_Platforming_PlatformingPlayerController_h__Script_ObstacleAssault_3476989044(TEXT("/Script/ObstacleAssault"),
-	Z_CompiledInDeferFile_FID_ObstacleAssault_Source_ObstacleAssault_Variant_Platforming_PlatformingPlayerController_h__Script_ObstacleAssault_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_ObstacleAssault_Source_ObstacleAssault_Variant_Platforming_PlatformingPlayerController_h__Script_ObstacleAssault_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_thalles_nunes_Documents_Unreal_Projects_ObstacleAssault_Source_ObstacleAssault_Variant_Platforming_PlatformingPlayerController_h__Script_ObstacleAssault_3476989044(TEXT("/Script/ObstacleAssault"),
+	Z_CompiledInDeferFile_FID_Users_thalles_nunes_Documents_Unreal_Projects_ObstacleAssault_Source_ObstacleAssault_Variant_Platforming_PlatformingPlayerController_h__Script_ObstacleAssault_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_thalles_nunes_Documents_Unreal_Projects_ObstacleAssault_Source_ObstacleAssault_Variant_Platforming_PlatformingPlayerController_h__Script_ObstacleAssault_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // ********** End Registration *********************************************************************

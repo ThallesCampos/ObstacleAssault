@@ -106,14 +106,14 @@ APlatformingGameMode::~APlatformingGameMode() {}
 // ********** End Class APlatformingGameMode *******************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_ObstacleAssault_Source_ObstacleAssault_Variant_Platforming_PlatformingGameMode_h__Script_ObstacleAssault_Statics
+struct Z_CompiledInDeferFile_FID_Users_thalles_nunes_Documents_Unreal_Projects_ObstacleAssault_Source_ObstacleAssault_Variant_Platforming_PlatformingGameMode_h__Script_ObstacleAssault_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_APlatformingGameMode, APlatformingGameMode::StaticClass, TEXT("APlatformingGameMode"), &Z_Registration_Info_UClass_APlatformingGameMode, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(APlatformingGameMode), 4115383824U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_ObstacleAssault_Source_ObstacleAssault_Variant_Platforming_PlatformingGameMode_h__Script_ObstacleAssault_4151928177(TEXT("/Script/ObstacleAssault"),
-	Z_CompiledInDeferFile_FID_ObstacleAssault_Source_ObstacleAssault_Variant_Platforming_PlatformingGameMode_h__Script_ObstacleAssault_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_ObstacleAssault_Source_ObstacleAssault_Variant_Platforming_PlatformingGameMode_h__Script_ObstacleAssault_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_thalles_nunes_Documents_Unreal_Projects_ObstacleAssault_Source_ObstacleAssault_Variant_Platforming_PlatformingGameMode_h__Script_ObstacleAssault_4151928177(TEXT("/Script/ObstacleAssault"),
+	Z_CompiledInDeferFile_FID_Users_thalles_nunes_Documents_Unreal_Projects_ObstacleAssault_Source_ObstacleAssault_Variant_Platforming_PlatformingGameMode_h__Script_ObstacleAssault_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_thalles_nunes_Documents_Unreal_Projects_ObstacleAssault_Source_ObstacleAssault_Variant_Platforming_PlatformingGameMode_h__Script_ObstacleAssault_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // ********** End Registration *********************************************************************

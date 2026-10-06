@@ -224,14 +224,14 @@ ASideScrollingPickup::~ASideScrollingPickup() {}
 // ********** End Class ASideScrollingPickup *******************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_ObstacleAssault_Source_ObstacleAssault_Variant_SideScrolling_Gameplay_SideScrollingPickup_h__Script_ObstacleAssault_Statics
+struct Z_CompiledInDeferFile_FID_Users_thalles_nunes_Documents_Unreal_Projects_ObstacleAssault_Source_ObstacleAssault_Variant_SideScrolling_Gameplay_SideScrollingPickup_h__Script_ObstacleAssault_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_ASideScrollingPickup, ASideScrollingPickup::StaticClass, TEXT("ASideScrollingPickup"), &Z_Registration_Info_UClass_ASideScrollingPickup, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ASideScrollingPickup), 3730080811U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_ObstacleAssault_Source_ObstacleAssault_Variant_SideScrolling_Gameplay_SideScrollingPickup_h__Script_ObstacleAssault_2212637681(TEXT("/Script/ObstacleAssault"),
-	Z_CompiledInDeferFile_FID_ObstacleAssault_Source_ObstacleAssault_Variant_SideScrolling_Gameplay_SideScrollingPickup_h__Script_ObstacleAssault_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_ObstacleAssault_Source_ObstacleAssault_Variant_SideScrolling_Gameplay_SideScrollingPickup_h__Script_ObstacleAssault_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_thalles_nunes_Documents_Unreal_Projects_ObstacleAssault_Source_ObstacleAssault_Variant_SideScrolling_Gameplay_SideScrollingPickup_h__Script_ObstacleAssault_2212637681(TEXT("/Script/ObstacleAssault"),
+	Z_CompiledInDeferFile_FID_Users_thalles_nunes_Documents_Unreal_Projects_ObstacleAssault_Source_ObstacleAssault_Variant_SideScrolling_Gameplay_SideScrollingPickup_h__Script_ObstacleAssault_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_thalles_nunes_Documents_Unreal_Projects_ObstacleAssault_Source_ObstacleAssault_Variant_SideScrolling_Gameplay_SideScrollingPickup_h__Script_ObstacleAssault_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // ********** End Registration *********************************************************************

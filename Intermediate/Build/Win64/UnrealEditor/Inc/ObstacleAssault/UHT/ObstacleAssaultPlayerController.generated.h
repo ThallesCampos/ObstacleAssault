@@ -19,7 +19,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 // ********** Begin Class AObstacleAssaultPlayerController *****************************************
 OBSTACLEASSAULT_API UClass* Z_Construct_UClass_AObstacleAssaultPlayerController_NoRegister();
 
-#define FID_ObstacleAssault_Source_ObstacleAssault_ObstacleAssaultPlayerController_h_19_INCLASS_NO_PURE_DECLS \
+#define FID_Users_thalles_nunes_Documents_Unreal_Projects_ObstacleAssault_Source_ObstacleAssault_ObstacleAssaultPlayerController_h_19_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAObstacleAssaultPlayerController(); \
 	friend struct Z_Construct_UClass_AObstacleAssaultPlayerController_Statics; \
@@ -30,7 +30,7 @@ public: \
 	DECLARE_SERIALIZER(AObstacleAssaultPlayerController)
 
 
-#define FID_ObstacleAssault_Source_ObstacleAssault_ObstacleAssaultPlayerController_h_19_ENHANCED_CONSTRUCTORS \
+#define FID_Users_thalles_nunes_Documents_Unreal_Projects_ObstacleAssault_Source_ObstacleAssault_ObstacleAssaultPlayerController_h_19_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API AObstacleAssaultPlayerController(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	/** Deleted move- and copy-constructors, should never be used */ \
@@ -42,12 +42,12 @@ public: \
 	NO_API virtual ~AObstacleAssaultPlayerController();
 
 
-#define FID_ObstacleAssault_Source_ObstacleAssault_ObstacleAssaultPlayerController_h_16_PROLOG
-#define FID_ObstacleAssault_Source_ObstacleAssault_ObstacleAssaultPlayerController_h_19_GENERATED_BODY \
+#define FID_Users_thalles_nunes_Documents_Unreal_Projects_ObstacleAssault_Source_ObstacleAssault_ObstacleAssaultPlayerController_h_16_PROLOG
+#define FID_Users_thalles_nunes_Documents_Unreal_Projects_ObstacleAssault_Source_ObstacleAssault_ObstacleAssaultPlayerController_h_19_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_ObstacleAssault_Source_ObstacleAssault_ObstacleAssaultPlayerController_h_19_INCLASS_NO_PURE_DECLS \
-	FID_ObstacleAssault_Source_ObstacleAssault_ObstacleAssaultPlayerController_h_19_ENHANCED_CONSTRUCTORS \
+	FID_Users_thalles_nunes_Documents_Unreal_Projects_ObstacleAssault_Source_ObstacleAssault_ObstacleAssaultPlayerController_h_19_INCLASS_NO_PURE_DECLS \
+	FID_Users_thalles_nunes_Documents_Unreal_Projects_ObstacleAssault_Source_ObstacleAssault_ObstacleAssaultPlayerController_h_19_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -57,6 +57,6 @@ class AObstacleAssaultPlayerController;
 // ********** End Class AObstacleAssaultPlayerController *******************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_ObstacleAssault_Source_ObstacleAssault_ObstacleAssaultPlayerController_h
+#define CURRENT_FILE_ID FID_Users_thalles_nunes_Documents_Unreal_Projects_ObstacleAssault_Source_ObstacleAssault_ObstacleAssaultPlayerController_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

@@ -256,14 +256,14 @@ ASideScrollingSoftPlatform::~ASideScrollingSoftPlatform() {}
 // ********** End Class ASideScrollingSoftPlatform *************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_ObstacleAssault_Source_ObstacleAssault_Variant_SideScrolling_Gameplay_SideScrollingSoftPlatform_h__Script_ObstacleAssault_Statics
+struct Z_CompiledInDeferFile_FID_Users_thalles_nunes_Documents_Unreal_Projects_ObstacleAssault_Source_ObstacleAssault_Variant_SideScrolling_Gameplay_SideScrollingSoftPlatform_h__Script_ObstacleAssault_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_ASideScrollingSoftPlatform, ASideScrollingSoftPlatform::StaticClass, TEXT("ASideScrollingSoftPlatform"), &Z_Registration_Info_UClass_ASideScrollingSoftPlatform, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ASideScrollingSoftPlatform), 1456188590U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_ObstacleAssault_Source_ObstacleAssault_Variant_SideScrolling_Gameplay_SideScrollingSoftPlatform_h__Script_ObstacleAssault_3356470888(TEXT("/Script/ObstacleAssault"),
-	Z_CompiledInDeferFile_FID_ObstacleAssault_Source_ObstacleAssault_Variant_SideScrolling_Gameplay_SideScrollingSoftPlatform_h__Script_ObstacleAssault_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_ObstacleAssault_Source_ObstacleAssault_Variant_SideScrolling_Gameplay_SideScrollingSoftPlatform_h__Script_ObstacleAssault_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_thalles_nunes_Documents_Unreal_Projects_ObstacleAssault_Source_ObstacleAssault_Variant_SideScrolling_Gameplay_SideScrollingSoftPlatform_h__Script_ObstacleAssault_3356470888(TEXT("/Script/ObstacleAssault"),
+	Z_CompiledInDeferFile_FID_Users_thalles_nunes_Documents_Unreal_Projects_ObstacleAssault_Source_ObstacleAssault_Variant_SideScrolling_Gameplay_SideScrollingSoftPlatform_h__Script_ObstacleAssault_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_thalles_nunes_Documents_Unreal_Projects_ObstacleAssault_Source_ObstacleAssault_Variant_SideScrolling_Gameplay_SideScrollingSoftPlatform_h__Script_ObstacleAssault_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // ********** End Registration *********************************************************************
